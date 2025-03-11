@@ -42,7 +42,7 @@ fx[1]*fx[2] #en bernoulli
 sqrt(sigmasq)
 
 
-
+#calvo
 
 
 #EXERCICI
